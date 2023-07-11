@@ -1,0 +1,49 @@
+
+h1{
+    font-size: 63px;
+    color: #303030;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    font-size: 45px;
+    color: rgb(68, 68, 177);
+    font-weight: 600;
+
+}
+
+.carousel-caption h5{
+    font-size: 80px;
+    color: #ffc107;
+    text-shadow: 2px 2px 2px black;
+
+}
+
+.form-check{
+    padding-left: 550px;
+}
+
+.form-check-label{
+    padding-right: 500px;
+}
+
+.btn{
+    background-color: rgb(68, 68, 177);
+    color: yellow;
+      
+}
+
+
+.carousel{
+    width: 1200px;
+    padding-left: 100px;
+    
+
+}
+
+h5{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
